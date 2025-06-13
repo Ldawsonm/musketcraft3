@@ -1,0 +1,38 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 14357620,
+      "separation": 24,
+      "spacing": 32
+    },
+    "structures": [
+      {
+        "structure": "minecraft:swamp_hut",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_oak",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_taiga",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_birch",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_dark_forest",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_giant_tree_taiga",
+        "weight": 1
+      },
+      {
+        "structure": "repurposed_structures:witch_hut_mangrove",
+        "weight": 1
+      }
+    ]
+}

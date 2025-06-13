@@ -84,5 +84,9 @@ to make editing this file much easier.
 	   		"minecraft:diamond_block": "minecraft:emerald_block"
 	   	}
 	*/
-	"swapper": { }
+	"swapper": { 
+		"minecraft:end_portal_frame": "minecraft:bedrock",
+		"minecraft:tall_grass": "minecraft:air",
+		"minecraft:sculk_shrieker": "minecraft:sculk_sensor"
+	}
 }

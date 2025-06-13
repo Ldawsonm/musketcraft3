@@ -1,0 +1,14 @@
+{
+  "fallback": "repurposed_structures:pyramids/jungle_pit",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "repurposed_structures:pyramids/jungle_pit",
+        "processors": "repurposed_structures:pyramids/jungle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

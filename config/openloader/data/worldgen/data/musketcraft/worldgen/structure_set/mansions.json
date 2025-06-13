@@ -1,0 +1,47 @@
+{
+    "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3042970,
+    "separation": 32,
+    "spacing": 80,
+    "spread_type": "triangular"
+    },
+    "structures": [
+        {
+            "structure": "minecraft:mansion",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_mangrove",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_birch",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_oak",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_taiga",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_jungle",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_savanna",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_snowy",
+            "weight": 1
+        },
+        {
+            "structure": "repurposed_structures:mansion_desert",
+            "weight": 1
+        }
+    ]
+}
