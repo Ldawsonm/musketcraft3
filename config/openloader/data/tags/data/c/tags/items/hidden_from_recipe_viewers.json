@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#musketcraft:made_with_variant_selector",
+        "#musketcraft:disabled_items",
+        "#musketcraft:hidden",
+        "#musketcraft:spawn_eggs",
+        "#excavated_variants:stone_ores",
+        "#excavated_variants:nether_ores"
+    ]
+}

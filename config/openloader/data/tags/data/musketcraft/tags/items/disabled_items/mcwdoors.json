@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        "mcwdoors:garage_black_door",
+        "mcwdoors:garage_gray_door",
+        "mcwdoors:garage_silver_door",
+        "mcwdoors:garage_white_door",
+        "mcwdoors:jail_door",
+        "mcwdoors:metal_door",
+        "mcwdoors:metal_hospital_door",
+        "mcwdoors:metal_reinforced_door",
+        "mcwdoors:metal_warning_door",
+        "mcwdoors:metal_windowed_door",
+        "mcwdoors:print_acacia",
+        "mcwdoors:print_bamboo",
+        "mcwdoors:print_birch",
+        "mcwdoors:print_dark_oak",
+        "mcwdoors:print_jungle",
+        "mcwdoors:print_mystic",
+        "mcwdoors:print_nether",
+        "mcwdoors:print_oak",
+        "mcwdoors:print_spruce",
+        "mcwdoors:print_swamp",
+        "mcwdoors:print_waffle",
+        "mcwdoors:sliding_glass_door",
+        "mcwdoors:store_door",
+        "mcwdoors:warped_bamboo_door"
+    ]
+}

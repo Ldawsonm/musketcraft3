@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "#musketcraft:disabled_items/vanilla",
+        "#musketcraft:disabled_items/absentbydesign",
+        "#musketcraft:disabled_items/functionalstorage",
+        "#musketcraft:disabled_items/mcwdoors",
+        "#musketcraft:disabled_items/misc",
+        "#musketcraft:disabled_items/waystones",
+        "#musketcraft:disabled_items/projecte"
+    ]
+}

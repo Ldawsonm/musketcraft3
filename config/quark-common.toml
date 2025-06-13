@@ -1766,7 +1766,7 @@
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	[experimental.variant_selector]
 		#Set this to true to automatically convert any dropped variant items into their originals. Do this ONLY if you intend to take control of every recipe via a data pack or equivalent, as this will introduce dupes otherwise.
-		"Convert Variant Items" = false
+		"Convert Variant Items" = true
 		#Enable the hammer, allowing variants to be swapped between eachother, including the original block. Do this ONLY under the same circumstances as Convert Variant Items.
 		"Enable Hammer" = false
 		"Show Tooltip" = true
@@ -1789,7 +1789,7 @@
 			#By default, only a mod's namespace is scanned for variants for its items (e.g. if coolmod adds coolmod:fun_block, it'll search only for coolmod:fun_block_stairs).
 			# Mods in this list are also scanned for variants if none are found in itself (e.g. if quark is in the list and coolmod:fun_block_stairs doesn't exist, it'll try to look for quark:fun_block_stairs next)
 			"Tested Mods" = ["quark", "everycomp", "v_slab_compat"]
-			"Print Variant Map To Log" = false
+			"Print Variant Map To Log" = true
 			#Format is 'alias=original' in each value (e.g. 'wall=fence' means that a failed search for, minecraft:cobblestone_fence will try cobblestone_wall next)
 			Aliases = ["carpet=slab", "pane=fence"]
 			#Ends of block IDs to try and remove when looking for variants. (e.g. minecraft:oak_planks goes into minecraft:oak_stairs, so we have to include '_planks' in this list for it to find them or else it'll only look for minecraft:oak_planks_stairs)

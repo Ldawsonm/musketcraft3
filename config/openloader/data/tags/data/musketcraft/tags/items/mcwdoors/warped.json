@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "mcwdoors:warped_barn_door",
+        "mcwdoors:warped_barn_glass_door",
+        "mcwdoors:warped_beach_door",
+        "mcwdoors:warped_classic_door",
+        "mcwdoors:warped_cottage_door",
+        "mcwdoors:warped_four_panel_door",
+        "mcwdoors:warped_glass_door",
+        "mcwdoors:warped_japanese2_door",
+        "mcwdoors:warped_japanese_door",
+        "mcwdoors:warped_modern_door",
+        "mcwdoors:warped_nether_door",
+        "mcwdoors:warped_paper_door",
+        "mcwdoors:warped_stable_door",
+        "mcwdoors:warped_stable_head_door",
+        "mcwdoors:warped_stem_glass_door",
+        "mcwdoors:warped_swamp_door",
+        "mcwdoors:warped_tropical_door",
+        "mcwdoors:warped_waffle_door",
+        "mcwdoors:warped_western_door"
+    ]
+}

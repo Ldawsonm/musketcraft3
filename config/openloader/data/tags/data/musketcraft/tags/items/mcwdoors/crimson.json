@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "mcwdoors:crimson_bamboo_door",
+        "mcwdoors:crimson_barn_door",
+        "mcwdoors:crimson_barn_glass_door",
+        "mcwdoors:crimson_beach_door",
+        "mcwdoors:crimson_classic_door",
+        "mcwdoors:crimson_cottage_door",
+        "mcwdoors:crimson_four_panel_door",
+        "mcwdoors:crimson_glass_door",
+        "mcwdoors:crimson_japanese2_door",
+        "mcwdoors:crimson_japanese_door",
+        "mcwdoors:crimson_modern_door",
+        "mcwdoors:crimson_mystic_door",
+        "mcwdoors:crimson_paper_door",
+        "mcwdoors:crimson_stable_door",
+        "mcwdoors:crimson_stable_head_door",
+        "mcwdoors:crimson_stem_glass_door",
+        "mcwdoors:crimson_swamp_door",
+        "mcwdoors:crimson_tropical_door",
+        "mcwdoors:crimson_waffle_door",
+        "mcwdoors:crimson_western_door"
+    ]
+}

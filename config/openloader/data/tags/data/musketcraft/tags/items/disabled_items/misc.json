@@ -1,0 +1,16 @@
+
+{
+    "replace": false,
+    "values": [
+        "astikorcarts:plow",
+        "toms_storage:ts.trim",
+        "toms_storage:ts.wireless_terminal",
+        "toms_storage:ts.adv_wireless_terminal",
+        "toms_storage:ts.polymorphic_item_filter",
+        "toms_storage:ts.tag_item_filter",
+        "hangglider:reinforced_hang_glider",
+        "hangglider:glider_wing",
+        "hangglider:glider_framework",
+        "another_furniture:service_bell"
+    ]
+}
