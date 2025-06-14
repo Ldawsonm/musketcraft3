@@ -11,6 +11,24 @@ var disabled_items = <tag:items:musketcraft:disabled_items>;
 // var variant_tooltip = Component.translatable("hidden_tooltip.variant") as MutableComponent;
 // variant_tooltip.setStyle(<constant:minecraft:formatting:yellow>.asStyle());
 
+// for item in variant_items.idElements() {
+//     val itemStack = item.asData();
+//     for tag in itemStack.getTags() {
+//         if (tag != variant_items && tag != disabled_items) {
+//             tag.remove(item);
+//         }
+//     }
+// }
+
+// for item in disabled_items.idElements() {
+//     for tag in item.getTags() {
+//         if (tag != variant_items && tag != disabled_items) {
+//             tag.remove(item);
+//         }
+//     }
+// }
+
+
 for type in game.recipeTypes {
 	type.remove(disabled_items);
 	type.remove(variant_items);

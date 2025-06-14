@@ -78,6 +78,10 @@
         "projecte:aeternalis_fuel",
         "projecte:dark_matter",
         "projecte:red_matter",
-        "projecte:iron_band"
+        "projecte:iron_band",
+        "projecte:gem_helmet",
+        "projecte:gem_chestplate",
+        "projecte:gem_leggings",
+        "projecte:gem_boots"
     ]
 }
