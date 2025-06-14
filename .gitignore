@@ -15,6 +15,7 @@ export/*.zip
 libraries/*
 world/*
 mod_data/*
+emojiful/cache/*
 options.txt
 banned-ips.json
 banned-players.json
