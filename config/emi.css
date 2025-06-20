@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: favorites, lookup-history;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -177,7 +177,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 9, 9;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -187,7 +187,7 @@
 	/**
 	 * Where to position the left sidebar
 	 */
-	left-sidebar-align: left, top;
+	left-sidebar-align: right, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
@@ -197,7 +197,7 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: transparent;
+	left-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the right sidebar
@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 9, 9;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -222,7 +222,7 @@
 	/**
 	 * Where to position the right sidebar
 	 */
-	right-sidebar-align: right, top;
+	right-sidebar-align: left, center;
 
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
@@ -232,7 +232,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: transparent;
+	right-sidebar-theme: vanilla;
 
 	/**
 	 * The pages in the top sidebar
@@ -425,7 +425,7 @@
 	/**
 	 * Delete the stack in the cursor when hovering the index
 	 */
-	delete-cursor-stack: "key.mouse.left";
+	delete-cursor-stack: "key.keyboard.unknown";
 
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
@@ -468,7 +468,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: true;
+	show-recipe-ids: false;
 
 	/**
 	 * Whether to display additional widgets added to recipes from other mods.

@@ -2,7 +2,7 @@
   "fixedSeed": "",
   "useFixedSeed": false,
   "useBetaSkyColor": true,
-  "useBetaBiomeColor": true,
+  "useBetaBiomeColor": false,
   "useBetaWaterColor": false,
   "usePEBetaSkyColor": false,
   "usePEBetaBiomeColor": false,

@@ -5,7 +5,7 @@
 	## Biome Title settings.
 	###########################################################################################################
 	["Traveler's Titles"."Biome Titles"]
-		"Enable Biome Titles" = true
+		"Enable Biome Titles" = false
 		# How long the fade-in text effect lasts, in ticks.
 		# 20 ticks = 1 second.
 		# Default: 10
@@ -177,7 +177,7 @@
 		"Reset Waystone Cache When Changing Dimensions" = true
 		# The distance from a Waystone (in blocks) at which the Waystone's title will trigger.
 		# Default: 30
-		"Waystone Title Range" = 30
+		"Waystone Title Range" = 64
 		# Whether or not Waystone titles should override Biome titles.
 		# That is, if a player enters the area for a Waystone while also entering a new biome,
 		# the Waystone title will take precedence.

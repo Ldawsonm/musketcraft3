@@ -1,0 +1,215 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.stone_type]
+
+		[types.stone_type.aether_redux]
+			sentrite = true
+			divinite = true
+			driftshale = true
+
+		[types.stone_type.deep_aether]
+			clorite = true
+			raw_clorite = true
+			aseterite = true
+			nimbus_stone = true
+
+		[types.stone_type.quark]
+			soul_sandstone = true
+			limestone = true
+			jasper = true
+			shale = true
+			myalite = true
+			permafrost = true
+
+		[types.stone_type.aether]
+			holystone = true
+			carved_stone = true
+			angelic_stone = true
+			hellfire_stone = true
+
+		[types.stone_type.lost_aether_content]
+			gale_stone = true
+
+	[types.mud_type]
+
+		[types.mud_type.deep_aether]
+			aether_mud = true
+
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.aether_redux]
+			fieldsproot = true
+			blightwillow = true
+			cloudcap = true
+			jellyshroom = true
+			crystal = true
+			glacia = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.aether]
+			golden_oak = true
+			holiday = true
+			decorated_holiday = true
+			crystal = true
+			crystal_fruit = true
+			skyroot = true
+
+		[types.leaves_type.aether_redux]
+			fieldsproot = true
+			gilded_oak = true
+			blighted_skyroot = true
+			purple_glacia = true
+			blightwillow = true
+			glacia = true
+
+		[types.leaves_type.deep_aether]
+			flowering_roseroot = true
+			blue_roseroot = true
+			flowering_blue_roseroot = true
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+#Disables specific entries
+[entries]
+
+	[entries.stone_type]
+
+		[entries.stone_type.stoneworks]
+			tile_wall = true
+			tile_stairs = true
+			cracked_tiles = true
+			shingle_stairs = true
+			plate_slab = true
+			shingle_wall = true
+			pavers = true
+			tiles = true
+			paver_stairs = true
+			tile_slab = true
+			paver_wall = true
+			shingles = true
+			plate_stairs = true
+			plate_wall = true
+			pillar = true
+			plates = true
+			shingle_slab = true
+			paver_slab = true
+
+		[entries.stone_type.quark]
+			polished_vertical_slab = true
+			pillar = true
+			vertical_slab = true
+
+	[entries.mud_type]
+
+		[entries.mud_type.quark]
+			carved_bricks = true
+			pillar = true
+			brick_lattice = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.functionalstorage]
+			1 = true
+			4 = true
+			2 = true
+
+		[entries.wood_type.mcwdoors]
+			nether_door = true
+			stable_head_door = true
+			japanese2_door = true
+			tropical_door = true
+			barn_glass_door = true
+			cottage_door = true
+			four_panel_door = true
+			western_door = true
+			paper_door = true
+			bamboo_door = true
+			swamp_door = true
+			glass_door = true
+			beach_door = true
+			barn_door = true
+			mystic_door = true
+			waffle_door = true
+			japanese_door = true
+			bark_glass_door = true
+			classic_door = true
+			stable_door = true
+			modern_door = true
+
+		[entries.wood_type.another_furniture]
+			shelf = true
+			bench = true
+			flower_box = true
+			shutter = true
+			table = true
+			drawer = true
+			chair = true
+
+		[entries.wood_type.woodworks]
+			chest = true
+			beehive = true
+			ladder = true
+			trapped_chest = true
+			boards = true
+			bookshelf = true
+			chiseled_bookshelf = true
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			chest = true
+			ladder = true
+			hollow_log = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			stripped_post = true
+			vertical_slab = true
+
+		[entries.wood_type.hearth_and_home]
+			sanded_wood = true
+			lattice = true
+			parquet = true
+			vertical_trim = true
+			trim = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+

@@ -773,7 +773,7 @@
 	"Chorus Vegetation" = false
 	Corundum = true
 	"Fairy Rings" = true
-	"Fallen Logs" = true
+	"Fallen Logs" = false
 	"Glimmering Weald" = true
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true

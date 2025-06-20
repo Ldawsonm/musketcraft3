@@ -42,7 +42,7 @@
 	#Allows minimap to follow player movement instead of only displaying current map
 	follow_player = true
 	#When enabled the map will align itself with the player
-	rotate_with_player = true
+	rotate_with_player = false
 	#Draw cardinal directions on minimap
 	cardinal_directions = true
 	#Scale of cardinal directions on minimap
@@ -51,7 +51,7 @@
 	#Only shows north cardinal direction
 	only_show_north_cardinal = false
 	#Shows map separation borders
-	map_borders = true
+	map_borders = false
 	#Use sky color for minimap
 	darken_at_night = false
 	#Plays page turn sound when current active map changes. Works best when paired with no rotation and no player follow
@@ -62,7 +62,7 @@
 [world_map]
 	crossair = false
 	#Use bigger book like texture for worldmap view. Makes the view a bit bigger. Recommended to ebe used with map scale 1 (you might want to lower lectern one too if buttons dont show)
-	alternative_texture = false
+	alternative_texture = true
 	#Pan smoothly. When off it will pan in map increments instead
 	smooth_panning = true
 	#Makes zooming work smoothly instead of in 2 maps increments
@@ -76,7 +76,7 @@
 	#Range: 0.0 ~ 20.0
 	lectern_scale = 1.0
 	#Shows map separation borders
-	map_borders = true
+	map_borders = false
 	#When enabled, the Atlas world map coordinates will be displayed
 	draw_coordinates = true
 	#Sets the scale of the text rendered for Coords world-map data
