@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/deep_aether/roseroot_bamboo_door",
+        "everycomp:mcd/deep_aether/roseroot_bark_glass_door",
+        "everycomp:mcd/deep_aether/roseroot_barn_door",
+        "everycomp:mcd/deep_aether/roseroot_barn_glass_door",
+        "everycomp:mcd/deep_aether/roseroot_beach_door",
+        "everycomp:mcd/deep_aether/roseroot_classic_door",
+        "everycomp:mcd/deep_aether/roseroot_cottage_door",
+        "everycomp:mcd/deep_aether/roseroot_four_panel_door",
+        "everycomp:mcd/deep_aether/roseroot_glass_door",
+        "everycomp:mcd/deep_aether/roseroot_japanese2_door",
+        "everycomp:mcd/deep_aether/roseroot_japanese_door",
+        "everycomp:mcd/deep_aether/roseroot_modern_door",
+        "everycomp:mcd/deep_aether/roseroot_mystic_door",
+        "everycomp:mcd/deep_aether/roseroot_nether_door",
+        "everycomp:mcd/deep_aether/roseroot_paper_door",
+        "everycomp:mcd/deep_aether/roseroot_stable_door",
+        "everycomp:mcd/deep_aether/roseroot_stable_head_door",
+        "everycomp:mcd/deep_aether/roseroot_swamp_door",
+        "everycomp:mcd/deep_aether/roseroot_waffle_door",
+        "everycomp:mcd/deep_aether/roseroot_western_door",
+        "everycomp:mcd/deep_aether/roseroot_whispering_door",
+        "everycomp:mcd/deep_aether/roseroot_tropical_door"
+    ]
+}

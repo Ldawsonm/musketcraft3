@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/blightwillow_bamboo_door",
+        "everycomp:mcd/aether_redux/blightwillow_bark_glass_door",
+        "everycomp:mcd/aether_redux/blightwillow_barn_door",
+        "everycomp:mcd/aether_redux/blightwillow_barn_glass_door",
+        "everycomp:mcd/aether_redux/blightwillow_beach_door",
+        "everycomp:mcd/aether_redux/blightwillow_classic_door",
+        "everycomp:mcd/aether_redux/blightwillow_cottage_door",
+        "everycomp:mcd/aether_redux/blightwillow_four_panel_door",
+        "everycomp:mcd/aether_redux/blightwillow_glass_door",
+        "everycomp:mcd/aether_redux/blightwillow_japanese2_door",
+        "everycomp:mcd/aether_redux/blightwillow_japanese_door",
+        "everycomp:mcd/aether_redux/blightwillow_modern_door",
+        "everycomp:mcd/aether_redux/blightwillow_mystic_door",
+        "everycomp:mcd/aether_redux/blightwillow_nether_door",
+        "everycomp:mcd/aether_redux/blightwillow_paper_door",
+        "everycomp:mcd/aether_redux/blightwillow_stable_door",
+        "everycomp:mcd/aether_redux/blightwillow_stable_head_door",
+        "everycomp:mcd/aether_redux/blightwillow_swamp_door",
+        "everycomp:mcd/aether_redux/blightwillow_waffle_door",
+        "everycomp:mcd/aether_redux/blightwillow_western_door",
+        "everycomp:mcd/aether_redux/blightwillow_whispering_door",
+        "everycomp:mcd/aether_redux/blightwillow_tropical_door"
+    ]
+}

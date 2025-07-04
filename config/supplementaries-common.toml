@@ -1,6 +1,6 @@
 
 [redstone]
-	wind_vane = true
+	wind_vane = false
 	clock_block = true
 	redstone_illuminator = true
 	crank = true
@@ -22,7 +22,7 @@
 		range = 64
 
 	[redstone.bellows]
-		enabled = true
+		enabled = false
 		#bellows pushes air following this equation: 
 		#air=(sin(2PI*ticks/period)<0), with period = base_period-(redstone_power-1)*power_scaling 
 		#represents base period at 1 power
@@ -51,7 +51,7 @@
 		fall_height_required = 5
 
 	[redstone.enderman_head]
-		enabled = true
+		enabled = false
 		drop_head = true
 		#Time to increase 1 power level when being looked at
 		#Range: 0 ~ 10000
@@ -67,7 +67,7 @@
 		shuffle_containers = true
 
 	[redstone.pulley_block]
-		enabled = true
+		enabled = false
 		#Chance for a new mineshaft elevator piece to spawn
 		#Range: 0.0 ~ 1.0
 		mineshaft_elevator = 0.035
@@ -78,7 +78,7 @@
 		adjust_projectile_angle = true
 
 	[redstone.faucet]
-		enabled = true
+		enabled = false
 		#Turn off to prevent faucets from dropping items
 		spill_items = true
 		#Allows faucets to fill entities inventories
@@ -90,8 +90,8 @@
 		chaining = true
 
 [functional]
-	fodder = true
-	hourglass = true
+	fodder = false
+	hourglass = false
 
 	[functional.rope]
 		#Allows ropes to be supported & attached to solid block sides
@@ -126,7 +126,7 @@
 		jar_liquids = true
 
 	[functional.cage]
-		enabled = true
+		enabled = false
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages
@@ -142,7 +142,7 @@
 		require_taming = true
 
 	[functional.safe]
-		enabled = true
+		enabled = false
 		#Makes safes only breakable by their owner or by a player in creative
 		prevent_breaking = false
 		#Make safes simpler so they do not require keys:
@@ -150,7 +150,7 @@
 		simple_safes = false
 
 	[functional.sack]
-		enabled = true
+		enabled = false
 		#Penalize the player with slowness effect when carrying too many sacks
 		sack_penalty = true
 		#Maximum number of sacks after which the overencumbered effect will be applied. Each multiple of this number will increase the effect strength by one
@@ -178,7 +178,7 @@
 		cave_urns = true
 
 	[functional.soap]
-		enabled = true
+		enabled = false
 		#Dyed Bock types that cannot be cleaned with soap
 		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower", "mna:chimerite_crystal", "botania:floating_flower", ",minecraft:mushroom", "botania:mushroom", "botania:tall_mystical_flower", "botania:petal_block", "morered:network_cable", "xycraft_world:glowing_shiny_aurey_block", "xycraft_world:shiny_aurey_block", "xycraft_world:rgb_lamp", "xycraft_world:glowing_rgb_viewer", "xycraft_world:glowing_matte_rgb_block", "xycraft_world:rgb_lamp_pole"]
 
@@ -190,7 +190,7 @@
 			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 
 	[functional.cannon]
-		enabled = true
+		enabled = false
 		#Cannon fire power multiplier
 		#Range: 0.0 ~ 5.0
 		fire_power = 0.6
@@ -200,10 +200,12 @@
 		#Time for a cannon to be able to fire again after it has been fired
 		#Range: 0 ~ 500
 		cooldown = 60
-		music_disc_heave_ho = true
+		music_disc_heave_ho = false
+		#Makes TNT-like block shot from a cannon explode on impact
+		explode_tnt = true
 
 		[functional.cannon.cannonball]
-			enabled = true
+			enabled = false
 			#Cannonball power scaling. Higher values will make cannonballs have more energy. Reminder that the damage and breaking power of a cannonball is proportional to its energy (speed squared) times this constant
 			#Range: 0.0 ~ 100.0
 			power_scaling = 3.5
@@ -220,14 +222,14 @@
 		wild_flax = true
 
 	[functional.lumisene]
-		enabled = true
+		enabled = false
 		#Gives the flammable effext also when merely stepping on lumisene. Turning this off if you think effects are not something that should be applied like that and just by drinking it.
 		#Range: 0 ~ 10000
 		flammable_from_lumisene_block_duration = 50
 
 		[functional.lumisene.lumisene_bottle]
 			#Enables lumisene bottles and the flammable effect and lumisene bottles. Turn off if you think its over the top and doesnt match with existing effects
-			enabled = true
+			enabled = false
 			#Duration of the flammable effect when you drink a lumisene bottle
 			#Range: 0 ~ 10000
 			flammable_duration = 300
@@ -270,7 +272,7 @@
 		enabled = true
 
 	[building.slidy_block]
-		enabled = true
+		enabled = false
 		#Slidy block speed
 		#Range: 0.0 ~ 1.0
 		speed = 0.125
@@ -325,7 +327,7 @@
 		crystal_enchanting = 3.0
 
 	[building.ash]
-		enabled = true
+		enabled = false
 		#Burnable blocks will have a chance to create ash layers when burned. Greater this number the greater the chance will be
 		#Range: 0.0 ~ 1.0
 		ash_from_fire_chance = 1.0
@@ -367,7 +369,7 @@
 		wattle_and_daub = true
 
 	[building.ash_bricks]
-		enabled = true
+		enabled = false
 
 	[building.hat_stand]
 		enabled = true
@@ -385,19 +387,19 @@
 		angle = 69.44395478041653
 
 	[building.flower_box]
-		enabled = true
+		enabled = false
 		#Makes so flower boxes can only contain one tall flower item per block
 		simple_mode = true
 
 	[building.netherite_doors]
-		door = true
-		trapdoor = true
+		door = false
+		trapdoor = false
 
 [tools]
-	candy = true
-	stasis = true
-	altimeter = true
-	confetti_popper = true
+	candy = false
+	stasis = false
+	altimeter = false
+	confetti_popper = false
 
 	[tools.quiver]
 		enabled = true
@@ -429,7 +431,7 @@
 		range_multiplier = 0.25
 
 	[tools.bubble_blower]
-		enabled = true
+		enabled = false
 		#Amount of soap consumed per bubble block placed
 		#Range: 1 ~ 25
 		stasis_cost = 5
@@ -458,7 +460,7 @@
 		exclusive_to_crossbows = false
 
 	[tools.flute]
-		enabled = true
+		enabled = false
 		#Radius in which an unbound flute will search pets
 		#Range: 0 ~ 500
 		unbound_radius = 64
@@ -467,7 +469,7 @@
 		bound_distance = 64
 
 	[tools.bomb]
-		enabled = true
+		enabled = false
 		#Bomb explosion radius (damage depends on this)
 		#Range: 0.1 ~ 10.0
 		explosion_radius = 2.0
@@ -489,7 +491,7 @@
 			break_blocks = "WEAK"
 
 	[tools.slingshot]
-		enabled = true
+		enabled = false
 		#Slingshot range multiplier. Affect the initial projectile speed
 		#Range: 0.0 ~ 5.0
 		range_multiplier = 1.0
@@ -518,7 +520,7 @@
 		allow_enderpearls = false
 
 	[tools.antique_ink]
-		enabled = true
+		enabled = false
 
 #General settings
 [general]
@@ -543,14 +545,14 @@
 
 	[tweaks.dragon_banner_pattern]
 		#Adds dragon banner pattern made from dragon head
-		enabled = true
+		enabled = false
 
 	[tweaks.shulker_helmet]
 		#Allows wearing shulker shells
-		enabled = true
+		enabled = false
 
 	[tweaks.golden_apple_disenchant]
-		enabled = true
+		enabled = false
 
 	[tweaks.traders_open_doors]
 		#Allows traders to open doors (because they couldn't apparently)
@@ -560,7 +562,7 @@
 		#Allows dispensers to use axes on blocks to strip logs and scrape off copper oxidation and wax
 		axe_strip = true
 		#Enables shooting ender pearls with dispensers
-		shoot_ender_pearls = true
+		shoot_ender_pearls = false
 		#Enables extracting bundles items with dispensers
 		extract_from_bundles = true
 
@@ -576,7 +578,7 @@
 
 	[tweaks.placeable_gunpowder]
 		#Allow placeable gunpowder
-		enabled = true
+		enabled = false
 		#Number of ticks it takes for gunpowder to burn 1 stage (out of 8). Increase to slow it down
 		#Range: 0 ~ 20
 		speed = 2
@@ -590,7 +592,7 @@
 
 	[tweaks.bottle_xp]
 		#Allow bottling up xp by using a bottle on an enchanting table
-		enabled = false
+		enabled = true
 		#bottling health cost
 		#Range: 0 ~ 20
 		cost = 2
@@ -649,9 +651,9 @@
 
 	[tweaks.bad_luck_tweaks]
 		#Hit a void cat, get the unluck
-		cat_unluck = true
+		cat_unluck = false
 		#If you have unluck you are more likely to get hit by a lighting
-		lightning_unluck = true
+		lightning_unluck = false
 
 	[tweaks.item_lore]
 		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
@@ -659,7 +661,7 @@
 
 	[tweaks.sus_recipes]
 		#Adds recipes to craft suspicious gravel and suspicious sand
-		enabled = true
+		enabled = false
 
 	[tweaks.slimed_effect]
 		enabled = true
@@ -672,7 +674,7 @@
 		hinders_jump = "NORMAL_DIFFICULTY"
 		#Duration of the slimed effect in ticks
 		#Range: 0 ~ 1000
-		duration = 300
+		duration = 200
 		#Chance that a slime mob will apply slimed effect on successful attack. Multiplied by the slime size
 		#Range: 0.0 ~ 1.0
 		chance_per_slime_size = 0.15

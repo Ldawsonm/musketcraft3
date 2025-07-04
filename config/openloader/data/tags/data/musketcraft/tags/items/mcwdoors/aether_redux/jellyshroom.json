@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/jellyshroom_bamboo_door",
+        "everycomp:mcd/aether_redux/jellyshroom_bark_glass_door",
+        "everycomp:mcd/aether_redux/jellyshroom_barn_door",
+        "everycomp:mcd/aether_redux/jellyshroom_barn_glass_door",
+        "everycomp:mcd/aether_redux/jellyshroom_beach_door",
+        "everycomp:mcd/aether_redux/jellyshroom_classic_door",
+        "everycomp:mcd/aether_redux/jellyshroom_cottage_door",
+        "everycomp:mcd/aether_redux/jellyshroom_four_panel_door",
+        "everycomp:mcd/aether_redux/jellyshroom_glass_door",
+        "everycomp:mcd/aether_redux/jellyshroom_japanese2_door",
+        "everycomp:mcd/aether_redux/jellyshroom_japanese_door",
+        "everycomp:mcd/aether_redux/jellyshroom_modern_door",
+        "everycomp:mcd/aether_redux/jellyshroom_mystic_door",
+        "everycomp:mcd/aether_redux/jellyshroom_nether_door",
+        "everycomp:mcd/aether_redux/jellyshroom_paper_door",
+        "everycomp:mcd/aether_redux/jellyshroom_stable_door",
+        "everycomp:mcd/aether_redux/jellyshroom_stable_head_door",
+        "everycomp:mcd/aether_redux/jellyshroom_swamp_door",
+        "everycomp:mcd/aether_redux/jellyshroom_waffle_door",
+        "everycomp:mcd/aether_redux/jellyshroom_western_door",
+        "everycomp:mcd/aether_redux/jellyshroom_whispering_door",
+        "everycomp:mcd/aether_redux/jellyshroom_tropical_door"
+    ]
+}

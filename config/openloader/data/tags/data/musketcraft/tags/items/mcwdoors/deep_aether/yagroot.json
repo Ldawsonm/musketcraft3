@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/deep_aether/yagroot_bamboo_door",
+        "everycomp:mcd/deep_aether/yagroot_bark_glass_door",
+        "everycomp:mcd/deep_aether/yagroot_barn_door",
+        "everycomp:mcd/deep_aether/yagroot_barn_glass_door",
+        "everycomp:mcd/deep_aether/yagroot_beach_door",
+        "everycomp:mcd/deep_aether/yagroot_classic_door",
+        "everycomp:mcd/deep_aether/yagroot_cottage_door",
+        "everycomp:mcd/deep_aether/yagroot_four_panel_door",
+        "everycomp:mcd/deep_aether/yagroot_glass_door",
+        "everycomp:mcd/deep_aether/yagroot_japanese2_door",
+        "everycomp:mcd/deep_aether/yagroot_japanese_door",
+        "everycomp:mcd/deep_aether/yagroot_modern_door",
+        "everycomp:mcd/deep_aether/yagroot_mystic_door",
+        "everycomp:mcd/deep_aether/yagroot_nether_door",
+        "everycomp:mcd/deep_aether/yagroot_paper_door",
+        "everycomp:mcd/deep_aether/yagroot_stable_door",
+        "everycomp:mcd/deep_aether/yagroot_stable_head_door",
+        "everycomp:mcd/deep_aether/yagroot_swamp_door",
+        "everycomp:mcd/deep_aether/yagroot_waffle_door",
+        "everycomp:mcd/deep_aether/yagroot_western_door",
+        "everycomp:mcd/deep_aether/yagroot_whispering_door",
+        "everycomp:mcd/deep_aether/yagroot_tropical_door"
+    ]
+}

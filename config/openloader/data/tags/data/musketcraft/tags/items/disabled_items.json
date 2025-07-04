@@ -7,6 +7,7 @@
         "#musketcraft:disabled_items/mcwdoors",
         "#musketcraft:disabled_items/misc",
         "#musketcraft:disabled_items/waystones",
+        "#musketcraft:disabled_items/everycomp",
         "#musketcraft:disabled_items/projecte"
     ]
 }

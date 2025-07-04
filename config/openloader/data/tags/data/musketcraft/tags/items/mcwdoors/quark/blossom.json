@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/quark/blossom_bamboo_door",
+        "everycomp:mcd/quark/blossom_bark_glass_door",
+        "everycomp:mcd/quark/blossom_barn_door",
+        "everycomp:mcd/quark/blossom_barn_glass_door",
+        "everycomp:mcd/quark/blossom_beach_door",
+        "everycomp:mcd/quark/blossom_classic_door",
+        "everycomp:mcd/quark/blossom_cottage_door",
+        "everycomp:mcd/quark/blossom_four_panel_door",
+        "everycomp:mcd/quark/blossom_glass_door",
+        "everycomp:mcd/quark/blossom_japanese2_door",
+        "everycomp:mcd/quark/blossom_japanese_door",
+        "everycomp:mcd/quark/blossom_modern_door",
+        "everycomp:mcd/quark/blossom_mystic_door",
+        "everycomp:mcd/quark/blossom_nether_door",
+        "everycomp:mcd/quark/blossom_paper_door",
+        "everycomp:mcd/quark/blossom_stable_door",
+        "everycomp:mcd/quark/blossom_stable_head_door",
+        "everycomp:mcd/quark/blossom_swamp_door",
+        "everycomp:mcd/quark/blossom_waffle_door",
+        "everycomp:mcd/quark/blossom_western_door",
+        "everycomp:mcd/quark/blossom_whispering_door",
+        "everycomp:mcd/quark/blossom_tropical_door"
+    ]
+}

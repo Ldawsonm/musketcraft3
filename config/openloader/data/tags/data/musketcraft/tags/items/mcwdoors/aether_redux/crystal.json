@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/crystal_bamboo_door",
+        "everycomp:mcd/aether_redux/crystal_bark_glass_door",
+        "everycomp:mcd/aether_redux/crystal_barn_door",
+        "everycomp:mcd/aether_redux/crystal_barn_glass_door",
+        "everycomp:mcd/aether_redux/crystal_beach_door",
+        "everycomp:mcd/aether_redux/crystal_classic_door",
+        "everycomp:mcd/aether_redux/crystal_cottage_door",
+        "everycomp:mcd/aether_redux/crystal_four_panel_door",
+        "everycomp:mcd/aether_redux/crystal_glass_door",
+        "everycomp:mcd/aether_redux/crystal_japanese2_door",
+        "everycomp:mcd/aether_redux/crystal_japanese_door",
+        "everycomp:mcd/aether_redux/crystal_modern_door",
+        "everycomp:mcd/aether_redux/crystal_mystic_door",
+        "everycomp:mcd/aether_redux/crystal_nether_door",
+        "everycomp:mcd/aether_redux/crystal_paper_door",
+        "everycomp:mcd/aether_redux/crystal_stable_door",
+        "everycomp:mcd/aether_redux/crystal_stable_head_door",
+        "everycomp:mcd/aether_redux/crystal_swamp_door",
+        "everycomp:mcd/aether_redux/crystal_waffle_door",
+        "everycomp:mcd/aether_redux/crystal_western_door",
+        "everycomp:mcd/aether_redux/crystal_whispering_door",
+        "everycomp:mcd/aether_redux/crystal_tropical_door"
+    ]
+}

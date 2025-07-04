@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/deep_aether/sunroot_bamboo_door",
+        "everycomp:mcd/deep_aether/sunroot_bark_glass_door",
+        "everycomp:mcd/deep_aether/sunroot_barn_door",
+        "everycomp:mcd/deep_aether/sunroot_barn_glass_door",
+        "everycomp:mcd/deep_aether/sunroot_beach_door",
+        "everycomp:mcd/deep_aether/sunroot_classic_door",
+        "everycomp:mcd/deep_aether/sunroot_cottage_door",
+        "everycomp:mcd/deep_aether/sunroot_four_panel_door",
+        "everycomp:mcd/deep_aether/sunroot_glass_door",
+        "everycomp:mcd/deep_aether/sunroot_japanese2_door",
+        "everycomp:mcd/deep_aether/sunroot_japanese_door",
+        "everycomp:mcd/deep_aether/sunroot_modern_door",
+        "everycomp:mcd/deep_aether/sunroot_mystic_door",
+        "everycomp:mcd/deep_aether/sunroot_nether_door",
+        "everycomp:mcd/deep_aether/sunroot_paper_door",
+        "everycomp:mcd/deep_aether/sunroot_stable_door",
+        "everycomp:mcd/deep_aether/sunroot_stable_head_door",
+        "everycomp:mcd/deep_aether/sunroot_swamp_door",
+        "everycomp:mcd/deep_aether/sunroot_waffle_door",
+        "everycomp:mcd/deep_aether/sunroot_western_door",
+        "everycomp:mcd/deep_aether/sunroot_whispering_door",
+        "everycomp:mcd/deep_aether/sunroot_tropical_door"
+    ]
+}

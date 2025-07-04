@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/quark/azalea_bamboo_door",
+        "everycomp:mcd/quark/azalea_bark_glass_door",
+        "everycomp:mcd/quark/azalea_barn_door",
+        "everycomp:mcd/quark/azalea_barn_glass_door",
+        "everycomp:mcd/quark/azalea_beach_door",
+        "everycomp:mcd/quark/azalea_classic_door",
+        "everycomp:mcd/quark/azalea_cottage_door",
+        "everycomp:mcd/quark/azalea_four_panel_door",
+        "everycomp:mcd/quark/azalea_glass_door",
+        "everycomp:mcd/quark/azalea_japanese2_door",
+        "everycomp:mcd/quark/azalea_japanese_door",
+        "everycomp:mcd/quark/azalea_modern_door",
+        "everycomp:mcd/quark/azalea_mystic_door",
+        "everycomp:mcd/quark/azalea_nether_door",
+        "everycomp:mcd/quark/azalea_paper_door",
+        "everycomp:mcd/quark/azalea_stable_door",
+        "everycomp:mcd/quark/azalea_stable_head_door",
+        "everycomp:mcd/quark/azalea_swamp_door",
+        "everycomp:mcd/quark/azalea_waffle_door",
+        "everycomp:mcd/quark/azalea_western_door",
+        "everycomp:mcd/quark/azalea_whispering_door",
+        "everycomp:mcd/quark/azalea_tropical_door"
+    ]
+}

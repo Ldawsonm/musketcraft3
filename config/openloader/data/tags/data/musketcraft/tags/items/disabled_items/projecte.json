@@ -82,6 +82,9 @@
         "projecte:gem_helmet",
         "projecte:gem_chestplate",
         "projecte:gem_leggings",
-        "projecte:gem_boots"
+        "projecte:gem_boots",
+        "projecte:low_covalence_dust",
+        "projecte:medium_covalence_dust",
+        "projecte:high_covalence_dust"
     ]
 }

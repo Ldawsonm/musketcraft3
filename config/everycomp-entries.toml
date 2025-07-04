@@ -32,6 +32,9 @@
 		[types.stone_type.lost_aether_content]
 			gale_stone = true
 
+		[types.stone_type.naturalist]
+			shellstone = true
+
 	[types.mud_type]
 
 		[types.mud_type.deep_aether]
@@ -41,7 +44,7 @@
 
 		[types.wood_type.quark]
 			azalea = true
-			ancient = true
+			ancient = false
 			blossom = true
 
 		[types.wood_type.aether]
@@ -139,8 +142,8 @@
 
 		[entries.wood_type.functionalstorage]
 			1 = true
-			4 = true
-			2 = true
+			4 = false
+			2 = false
 
 		[entries.wood_type.mcwdoors]
 			nether_door = true

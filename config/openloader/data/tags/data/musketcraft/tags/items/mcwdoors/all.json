@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "values": [
+        "#musketcraft:mcwdoors/acacia",
+        "#musketcraft:mcwdoors/bamboo",
+        "#musketcraft:mcwdoors/birch",
+        "#musketcraft:mcwdoors/cherry",
+        "#musketcraft:mcwdoors/crimson",
+        "#musketcraft:mcwdoors/dark_oak",
+        "#musketcraft:mcwdoors/jungle",
+        "#musketcraft:mcwdoors/mangrove",
+        "#musketcraft:mcwdoors/oak",
+        "#musketcraft:mcwdoors/spruce",
+        "#musketcraft:mcwdoors/warped",
+        "#musketcraft:mcwdoors/aether/skyroot",
+        "#musketcraft:mcwdoors/aether_redux/blightwillow",
+        "#musketcraft:mcwdoors/aether_redux/cloudcap",
+        "#musketcraft:mcwdoors/aether_redux/crystal",
+        "#musketcraft:mcwdoors/aether_redux/fieldsproot",
+        "#musketcraft:mcwdoors/aether_redux/glacia",
+        "#musketcraft:mcwdoors/aether_redux/jellyshroom",
+        "#musketcraft:mcwdoors/deep_aether/conberry",
+        "#musketcraft:mcwdoors/deep_aether/roseroot",
+        "#musketcraft:mcwdoors/deep_aether/sunroot",
+        "#musketcraft:mcwdoors/deep_aether/yagroot",
+        "#musketcraft:mcwdoors/deep_aether/cruderoot",
+        "#musketcraft:mcwdoors/quark/azalea",
+        "#musketcraft:mcwdoors/quark/blossom"
+    ]
+}

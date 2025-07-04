@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether/skyroot_bamboo_door",
+        "everycomp:mcd/aether/skyroot_bark_glass_door",
+        "everycomp:mcd/aether/skyroot_barn_door",
+        "everycomp:mcd/aether/skyroot_barn_glass_door",
+        "everycomp:mcd/aether/skyroot_beach_door",
+        "everycomp:mcd/aether/skyroot_classic_door",
+        "everycomp:mcd/aether/skyroot_cottage_door",
+        "everycomp:mcd/aether/skyroot_four_panel_door",
+        "everycomp:mcd/aether/skyroot_glass_door",
+        "everycomp:mcd/aether/skyroot_japanese2_door",
+        "everycomp:mcd/aether/skyroot_japanese_door",
+        "everycomp:mcd/aether/skyroot_modern_door",
+        "everycomp:mcd/aether/skyroot_mystic_door",
+        "everycomp:mcd/aether/skyroot_nether_door",
+        "everycomp:mcd/aether/skyroot_paper_door",
+        "everycomp:mcd/aether/skyroot_stable_door",
+        "everycomp:mcd/aether/skyroot_stable_head_door",
+        "everycomp:mcd/aether/skyroot_swamp_door",
+        "everycomp:mcd/aether/skyroot_waffle_door",
+        "everycomp:mcd/aether/skyroot_western_door",
+        "everycomp:mcd/aether/skyroot_whispering_door",
+        "everycomp:mcd/aether/skyroot_tropical_door"
+    ]
+}

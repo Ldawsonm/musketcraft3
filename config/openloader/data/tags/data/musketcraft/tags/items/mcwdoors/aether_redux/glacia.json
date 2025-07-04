@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/glacia_bamboo_door",
+        "everycomp:mcd/aether_redux/glacia_bark_glass_door",
+        "everycomp:mcd/aether_redux/glacia_barn_door",
+        "everycomp:mcd/aether_redux/glacia_barn_glass_door",
+        "everycomp:mcd/aether_redux/glacia_beach_door",
+        "everycomp:mcd/aether_redux/glacia_classic_door",
+        "everycomp:mcd/aether_redux/glacia_cottage_door",
+        "everycomp:mcd/aether_redux/glacia_four_panel_door",
+        "everycomp:mcd/aether_redux/glacia_glass_door",
+        "everycomp:mcd/aether_redux/glacia_japanese2_door",
+        "everycomp:mcd/aether_redux/glacia_japanese_door",
+        "everycomp:mcd/aether_redux/glacia_modern_door",
+        "everycomp:mcd/aether_redux/glacia_mystic_door",
+        "everycomp:mcd/aether_redux/glacia_nether_door",
+        "everycomp:mcd/aether_redux/glacia_paper_door",
+        "everycomp:mcd/aether_redux/glacia_stable_door",
+        "everycomp:mcd/aether_redux/glacia_stable_head_door",
+        "everycomp:mcd/aether_redux/glacia_swamp_door",
+        "everycomp:mcd/aether_redux/glacia_waffle_door",
+        "everycomp:mcd/aether_redux/glacia_western_door",
+        "everycomp:mcd/aether_redux/glacia_whispering_door",
+        "everycomp:mcd/aether_redux/glacia_tropical_door"
+    ]
+}

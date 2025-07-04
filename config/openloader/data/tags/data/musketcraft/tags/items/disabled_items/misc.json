@@ -11,6 +11,8 @@
         "hangglider:reinforced_hang_glider",
         "hangglider:glider_wing",
         "hangglider:glider_framework",
-        "another_furniture:service_bell"
+        "another_furniture:service_bell",
+        "quarkdelight:ancient_fruit_crate",
+        "ascended_quark:skyroot_stool"
     ]
 }

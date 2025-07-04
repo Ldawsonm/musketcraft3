@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/fieldsproot_bamboo_door",
+        "everycomp:mcd/aether_redux/fieldsproot_bark_glass_door",
+        "everycomp:mcd/aether_redux/fieldsproot_barn_door",
+        "everycomp:mcd/aether_redux/fieldsproot_barn_glass_door",
+        "everycomp:mcd/aether_redux/fieldsproot_beach_door",
+        "everycomp:mcd/aether_redux/fieldsproot_classic_door",
+        "everycomp:mcd/aether_redux/fieldsproot_cottage_door",
+        "everycomp:mcd/aether_redux/fieldsproot_four_panel_door",
+        "everycomp:mcd/aether_redux/fieldsproot_glass_door",
+        "everycomp:mcd/aether_redux/fieldsproot_japanese2_door",
+        "everycomp:mcd/aether_redux/fieldsproot_japanese_door",
+        "everycomp:mcd/aether_redux/fieldsproot_modern_door",
+        "everycomp:mcd/aether_redux/fieldsproot_mystic_door",
+        "everycomp:mcd/aether_redux/fieldsproot_nether_door",
+        "everycomp:mcd/aether_redux/fieldsproot_paper_door",
+        "everycomp:mcd/aether_redux/fieldsproot_stable_door",
+        "everycomp:mcd/aether_redux/fieldsproot_stable_head_door",
+        "everycomp:mcd/aether_redux/fieldsproot_swamp_door",
+        "everycomp:mcd/aether_redux/fieldsproot_waffle_door",
+        "everycomp:mcd/aether_redux/fieldsproot_western_door",
+        "everycomp:mcd/aether_redux/fieldsproot_whispering_door",
+        "everycomp:mcd/aether_redux/fieldsproot_tropical_door"
+    ]
+}

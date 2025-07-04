@@ -3,6 +3,406 @@
     {
       "item": "minecraft:bamboo",
       "emc": 2
+    },
+    {
+      "item": "minecraft:emerald",
+      "emc": 0
+    },
+    {
+      "item": "aether_redux:avelium_sprouts",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:blightwillow_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:blighted_skyroot_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:glacia_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:purple_glacia_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:gilded_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:crystal_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:crystal_fruit_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:fieldsproot_sapling",
+      "emc": 32
+    },
+    {
+      "item": "deep_aether:aether_mud",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:yagroot_roots",
+      "emc": 4
+    },
+    {
+      "item": "aether:quicksoil",
+      "emc": 64
+    },
+    {
+      "item": "aether_redux:driftshale",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:blightmoss_block",
+      "emc": 12
+    },
+    {
+      "item": "aether_redux:holysilt",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:golden_vines",
+      "emc": 8
+    },
+    {
+      "item": "aether_redux:gilded_oak_leaves",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:blightwillow_leaves",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:blighted_skyroot_leaves",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:purple_glacia_leaves",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:fieldsproot_leaves",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:cloud_cap_block",
+      "emc": 96
+    },
+    {
+      "item": "aether_redux:cloudcap_spores",
+      "emc": 416
+    },
+    {
+      "item": "aether_redux:jellyshroom_jelly_block",
+      "emc": 96
+    },
+    {
+      "item": "deep_aether:aether_moss_block",
+      "emc": 12
+    },
+    {
+      "item": "deep_aether:yagroot_vine",
+      "emc": 8
+    },
+    {
+      "item": "deep_aether:sunroot_hanger",
+      "emc": 8
+    },
+    {
+      "item": "lost_aether_content:holiday_sapling",
+      "emc": 32
+    },
+    {
+      "item": "aether:berry_bush_stem",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:zanberry_bush_stem",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:wyndsprouts",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:skysprouts",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:fieldsproot_petals",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:xaelia_patch",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:aurum",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:zyatrix",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:iridia",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:luxweed",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:spirolyctil",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:fieldsproot_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:blightwillow_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:sporing_blightwillow_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:cloudcap_stem",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:jellyshroom_stem",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:glacia_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:crystal_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:stripped_fieldsproot_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:stripped_blightwillow_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:stripped_cloudcap_stem",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:stripped_glacia_log",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:stripped_crystal_log",
+      "emc": 32
+    },
+    {
+      "item": "aether:holystone",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:gilded_holystone",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:blightmoss_holystone",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:cobbled_aseterite",
+      "emc": 16
+    },
+    {
+      "item": "deep_aether:aerglow_blossom",
+      "emc": 16
+    },
+    {
+      "item": "aether:icestone",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:divinite",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:sentrite",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:mykapod_shell_chunk",
+      "emc": 16
+    },
+    {
+      "item": "lost_aether_content:gale_stone",
+      "emc": 16
+    },
+    {
+      "item": "aether:aether_grass_block",
+      "emc": 1
+    },
+    {
+      "item": "aether:enchanted_aether_grass_block",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:blighted_aether_grass_block",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:avelium",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:golden_heights_grass_block",
+      "emc": 1
+    },
+    {
+      "item": "aether:aether_dirt",
+      "emc": 1
+    },
+    {
+      "item": "aether:aether_coarse_dirt",
+      "emc": 2
+    },
+    {
+      "item": "aether_redux:aether_short_grass",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:short_aether_grass",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:splitfern",
+      "emc": 1
+    },
+    {
+      "item": "aether_redux:avelium_roots",
+      "emc": 1
+    },
+    {
+      "item": "aether:aether_dirt_path",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:golden_heights_dirt_path",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:cloudbloom_bouquet",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:fungal_growth",
+      "emc": 1
+    },
+    {
+      "item": "aether:ambrosium_shard",
+      "emc": 128
+    },
+    {
+      "item": "aether:zanite_gemstone",
+      "emc": 256
+    },
+    {
+      "item": "aether_redux:veridium_ingot",
+      "emc": 2048
+    },
+    {
+      "item": "deep_aether:skyjade",
+      "emc": 2048
+    },
+    {
+      "item": "deep_aether:tall_aether_cattails",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:blightshade",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:corrupted_vines",
+      "emc": 8
+    },
+    {
+      "item": "aether_redux:lumina",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:daggerbloom",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:theratip",
+      "emc": 16
+    },
+    {
+      "item": "aether_redux:jellyshroom",
+      "emc": 32
+    },
+    {
+      "item": "aether_redux:shimmerstool",
+      "emc": 32
+    },
+    {
+      "item": "deep_aether:feather_grass",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:tall_feather_grass",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:mini_golden_grass",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:short_golden_grass",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:medium_golden_grass",
+      "emc": 1
+    },
+    {
+      "item": "deep_aether:tall_golden_grass",
+      "emc": 1
+    },
+    {
+      "item": "aether:cold_aercloud",
+      "emc": 1
+    },
+    {
+      "item": "aether:blue_aercloud",
+      "emc": 64
+    },
+    {
+      "item": "aether:golden_aercloud",
+      "emc": 256
+    },
+    {
+      "item": "aether_redux:blighted_aercloud",
+      "emc": 512
+    },
+    {
+      "item": "deep_aether:aersmog",
+      "emc": 512
     }
   ]
 }

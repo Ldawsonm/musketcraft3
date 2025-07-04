@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/aether_redux/cloudcap_bamboo_door",
+        "everycomp:mcd/aether_redux/cloudcap_bark_glass_door",
+        "everycomp:mcd/aether_redux/cloudcap_barn_door",
+        "everycomp:mcd/aether_redux/cloudcap_barn_glass_door",
+        "everycomp:mcd/aether_redux/cloudcap_beach_door",
+        "everycomp:mcd/aether_redux/cloudcap_classic_door",
+        "everycomp:mcd/aether_redux/cloudcap_cottage_door",
+        "everycomp:mcd/aether_redux/cloudcap_four_panel_door",
+        "everycomp:mcd/aether_redux/cloudcap_glass_door",
+        "everycomp:mcd/aether_redux/cloudcap_japanese2_door",
+        "everycomp:mcd/aether_redux/cloudcap_japanese_door",
+        "everycomp:mcd/aether_redux/cloudcap_modern_door",
+        "everycomp:mcd/aether_redux/cloudcap_mystic_door",
+        "everycomp:mcd/aether_redux/cloudcap_nether_door",
+        "everycomp:mcd/aether_redux/cloudcap_paper_door",
+        "everycomp:mcd/aether_redux/cloudcap_stable_door",
+        "everycomp:mcd/aether_redux/cloudcap_stable_head_door",
+        "everycomp:mcd/aether_redux/cloudcap_swamp_door",
+        "everycomp:mcd/aether_redux/cloudcap_waffle_door",
+        "everycomp:mcd/aether_redux/cloudcap_western_door",
+        "everycomp:mcd/aether_redux/cloudcap_whispering_door",
+        "everycomp:mcd/aether_redux/cloudcap_tropical_door"
+    ]
+}

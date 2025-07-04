@@ -52,3 +52,26 @@ enableVariant(<item:minecraft:mangrove_door>, <tag:items:musketcraft:mcwdoors/ma
 enableVariant(<item:minecraft:oak_door>, <tag:items:musketcraft:mcwdoors/oak>);
 enableVariant(<item:minecraft:spruce_door>, <tag:items:musketcraft:mcwdoors/spruce>);
 enableVariant(<item:minecraft:warped_door>, <tag:items:musketcraft:mcwdoors/warped>);
+
+#Quark
+enableVariant(<item:quark:azalea_door>, <tag:items:musketcraft:mcwdoors/quark/azalea>);
+enableVariant(<item:quark:blossom_door>, <tag:items:musketcraft:mcwdoors/quark/blossom>);
+
+#Aether
+enableVariant(<item:aether:skyroot_door>, <tag:items:musketcraft:mcwdoors/aether/skyroot>);
+
+#Deep Aether
+enableVariant(<item:deep_aether:roseroot_door>, <tag:items:musketcraft:mcwdoors/deep_aether/roseroot>);
+enableVariant(<item:deep_aether:yagroot_door>, <tag:items:musketcraft:mcwdoors/deep_aether/yagroot>);
+enableVariant(<item:deep_aether:conberry_door>, <tag:items:musketcraft:mcwdoors/deep_aether/conberry>);
+enableVariant(<item:deep_aether:sunroot_door>, <tag:items:musketcraft:mcwdoors/deep_aether/sunroot>);
+enableVariant(<item:deep_aether:cruderoot_door>, <tag:items:musketcraft:mcwdoors/deep_aether/cruderoot>);
+
+
+#Aether Redux
+enableVariant(<item:aether_redux:fieldsproot_door>, <tag:items:musketcraft:mcwdoors/aether_redux/fieldsproot>);
+enableVariant(<item:aether_redux:blightwillow_door>, <tag:items:musketcraft:mcwdoors/aether_redux/blightwillow>);
+enableVariant(<item:aether_redux:cloudcap_door>, <tag:items:musketcraft:mcwdoors/aether_redux/cloudcap>);
+enableVariant(<item:aether_redux:jellyshroom_door>, <tag:items:musketcraft:mcwdoors/aether_redux/jellyshroom>);
+enableVariant(<item:aether_redux:crystal_door>, <tag:items:musketcraft:mcwdoors/aether_redux/crystal>);
+enableVariant(<item:aether_redux:glacia_door>, <tag:items:musketcraft:mcwdoors/aether_redux/glacia>);

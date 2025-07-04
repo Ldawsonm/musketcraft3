@@ -1,0 +1,27 @@
+{
+    "replace": false,
+    "values": [
+        "everycomp:mcd/deep_aether/cruderoot_bamboo_door",
+        "everycomp:mcd/deep_aether/cruderoot_bark_glass_door",
+        "everycomp:mcd/deep_aether/cruderoot_barn_door",
+        "everycomp:mcd/deep_aether/cruderoot_barn_glass_door",
+        "everycomp:mcd/deep_aether/cruderoot_beach_door",
+        "everycomp:mcd/deep_aether/cruderoot_classic_door",
+        "everycomp:mcd/deep_aether/cruderoot_cottage_door",
+        "everycomp:mcd/deep_aether/cruderoot_four_panel_door",
+        "everycomp:mcd/deep_aether/cruderoot_glass_door",
+        "everycomp:mcd/deep_aether/cruderoot_japanese2_door",
+        "everycomp:mcd/deep_aether/cruderoot_japanese_door",
+        "everycomp:mcd/deep_aether/cruderoot_modern_door",
+        "everycomp:mcd/deep_aether/cruderoot_mystic_door",
+        "everycomp:mcd/deep_aether/cruderoot_nether_door",
+        "everycomp:mcd/deep_aether/cruderoot_paper_door",
+        "everycomp:mcd/deep_aether/cruderoot_stable_door",
+        "everycomp:mcd/deep_aether/cruderoot_stable_head_door",
+        "everycomp:mcd/deep_aether/cruderoot_swamp_door",
+        "everycomp:mcd/deep_aether/cruderoot_waffle_door",
+        "everycomp:mcd/deep_aether/cruderoot_western_door",
+        "everycomp:mcd/deep_aether/cruderoot_whispering_door",
+        "everycomp:mcd/deep_aether/cruderoot_tropical_door"
+    ]
+}
