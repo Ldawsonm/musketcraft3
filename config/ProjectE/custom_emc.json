@@ -403,6 +403,14 @@
     {
       "item": "deep_aether:aersmog",
       "emc": 512
+    },
+    {
+      "item": "minecraft:ancient_debris",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "emc": 0
     }
   ]
 }

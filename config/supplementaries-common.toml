@@ -171,7 +171,7 @@
 		populate_creative_tab = true
 
 	[functional.urn]
-		enabled = true
+		enabled = false
 		#Chance for an urn to spawn a critter from the urn_spawn tag
 		#Range: 0.0 ~ 1.0
 		critter_spawn_chance = 0.01
@@ -332,11 +332,11 @@
 		#Range: 0.0 ~ 1.0
 		ash_from_fire_chance = 1.0
 		#Burning mobs will drop ash when they die
-		ash_from_burning_mobs = true
+		ash_from_burning_mobs = false
 		#Allows rain to wash away ash layers overtime
-		rain_wash_ash = true
+		rain_wash_ash = false
 		#Use a datapack to tweak rarity
-		basalt_ash = true
+		basalt_ash = false
 
 	[building.flag]
 		enabled = true

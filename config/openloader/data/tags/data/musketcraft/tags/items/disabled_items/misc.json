@@ -13,6 +13,11 @@
         "hangglider:glider_framework",
         "another_furniture:service_bell",
         "quarkdelight:ancient_fruit_crate",
-        "ascended_quark:skyroot_stool"
+        "ascended_quark:skyroot_stool",
+        "supplementaries:netherite_door",
+        "supplementaries:netherite_trapdoor",
+        "aether:netherite_gloves",
+        "horse_colors:netherite_horse_armor",
+        "farmersdelight:netherite_knife"
     ]
 }

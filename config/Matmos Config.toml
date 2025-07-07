@@ -1,0 +1,9 @@
+
+[Gamplay]
+	Music = true
+	Wind = true
+	Inventory = true
+	Cave = false
+	Nether = true
+	Water = true
+
