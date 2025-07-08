@@ -60,5 +60,5 @@
 	penalty_free_renames_and_repairs = true
 	#Constant to use when "prior_work_penalty" is set to "FIXED". Every subsequent operation will increase by this value in levels.
 	#Range: > 1
-	prior_work_penalty_constant = 4
+	prior_work_penalty_constant = 2
 
