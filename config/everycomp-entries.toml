@@ -13,7 +13,6 @@
 			clorite = true
 			raw_clorite = true
 			aseterite = true
-			nimbus_stone = true
 
 		[types.stone_type.quark]
 			soul_sandstone = true
@@ -21,19 +20,6 @@
 			jasper = true
 			shale = true
 			myalite = true
-			permafrost = true
-
-		[types.stone_type.aether]
-			holystone = true
-			carved_stone = true
-			angelic_stone = true
-			hellfire_stone = true
-
-		[types.stone_type.lost_aether_content]
-			gale_stone = true
-
-		[types.stone_type.naturalist]
-			shellstone = true
 
 	[types.mud_type]
 
