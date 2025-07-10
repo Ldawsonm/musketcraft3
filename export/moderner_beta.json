@@ -1,0 +1,116 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "type": "moderner_beta:moderner_beta",
+        "biome_source": {
+          "type": "moderner_beta:moderner_beta",
+          "cave_provider_settings": {
+            "moderner_beta:preset": "moderner_beta:default"
+          },
+          "provider_settings": {
+            "moderner_beta:preset": "moderner_beta:default"
+          }
+        },
+        "provider_settings": {
+          "moderner_beta:provider": "moderner_beta:early_release",
+          "moderner_beta:deepslate_generation": {
+            "enabled": true,
+            "minY": 0,
+            "maxY": 8,
+            "block": "minecraft:deepslate"
+          },
+          "moderner_beta:noise_slide": {
+            "bottomTarget": 15,
+            "bottomSize": 3,
+            "bottomOffset": 0,
+            "topTarget": -10,
+            "topSize": 3,
+            "topOffset": 0
+          },
+          "moderner_beta:cave_generation": {
+            "forceBetaCaves": true,
+            "forceBetaCanyons": true,
+            "seedMethod": "early_release",
+            "useCarvers": true,
+            "useNoiseCaves": false,
+            "fixCaveBorders": true
+          },
+          "moderner_beta:sea_level_offset": 0,
+          "moderner_beta:forced_biome_height": {
+            "depthOffset": 0.0,
+            "scaleWeight": 1.0,
+            "scaleOffset": 0.0,
+            "heightOverrides": {
+              "minecraft:badlands*plateau": "1.8;0.2",
+              "minecraft:birch_forest*hills": "0.3;0.7",
+              "minecraft:cherry_grove": "1.8;0.5",
+              "minecraft:cherry_grove*edge": "0.8;0.3",
+              "minecraft:dark_forest*hills": "0.3;0.7",
+              "minecraft:desert*hills": "0.3;0.8",
+              "minecraft:flower_forest": "0.1;0.8",
+              "minecraft:flower_forest*hills": "0.3;1.3",
+              "minecraft:forest*hills": "0.3;0.7",
+              "minecraft:ice_spikes": "0.3;0.8",
+              "minecraft:jungle*hills": "1.8;0.5",
+              "minecraft:meadow": "1.0;1.0",
+              "minecraft:old_growth_birch_forest": "0.1;0.8",
+              "minecraft:old_growth_birch_forest*hills": "0.3;1.3",
+              "minecraft:old_growth_spruce_taiga*hills": "0.3;0.8",
+              "minecraft:pale_garden*hills": "0.3;0.7",
+              "minecraft:snowy_plains*hills": "0.3;1.3",
+              "minecraft:snowy_taiga*hills": "0.3;0.8",
+              "minecraft:stony_shore": "0.1;1.6",
+              "minecraft:taiga*hills": "0.3;0.8",
+              "minecraft:windswept_forest": "0.3;1.5",
+              "minecraft:windswept_gravelly_hills": "0.3;1.5",
+              "minecraft:windswept_hills": "0.3;1.5",
+              "minecraft:windswept_savanna": "0.3;1.5",
+              "minecraft:windswept_savanna*plateau": "1.0;1.0",
+              "minecraft:wooded_badlands": "1.8;0.2"
+            },
+            "depthWeight": 1.0
+          },
+          "moderner_beta:use_surface_rules": true,
+          "moderner_beta:noise_scale": {
+            "baseSize": 8.5,
+            "stretchY": 12.0,
+            "farlands": false,
+            "mainNoiseX": 80.0,
+            "mainNoiseY": 160.0,
+            "mainNoiseZ": 80.0,
+            "lowerLimit": 512.0,
+            "depthNoiseX": 200.0,
+            "depthNoiseZ": 200.0,
+            "coordinate": 684.412,
+            "height": 684.412,
+            "upperLimit": 512.0
+          }
+        },
+        "settings": "moderner_beta:beta"
+      }
+    },
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "type": "minecraft:noise",
+        "biome_source": {
+          "type": "minecraft:the_end"
+        },
+        "settings": "minecraft:end"
+      }
+    },
+    "minecraft:the_nether": {
+      "type": "minecraft:the_nether",
+      "generator": {
+        "type": "minecraft:noise",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:nether"
+        },
+        "settings": "minecraft:nether"
+      }
+    }
+  }
+}
