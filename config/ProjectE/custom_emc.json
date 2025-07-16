@@ -390,11 +390,11 @@
     },
     {
       "item": "aether:blue_aercloud",
-      "emc": 64
+      "emc": 1
     },
     {
       "item": "aether:golden_aercloud",
-      "emc": 256
+      "emc": 1
     },
     {
       "item": "aether_redux:blighted_aercloud",
@@ -411,6 +411,46 @@
     {
       "item": "minecraft:netherite_scrap",
       "emc": 0
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 4
+    },
+    {
+      "item": "aether:healing_stone",
+      "emc": 0
+    },
+    {
+      "item": "aether_redux:gravitite_ingot",
+      "emc": 524288
+    },
+    {
+      "item": "aether:blue_moa_egg",
+      "emc": 64
+    },
+    {
+      "item": "aether:white_moa_egg",
+      "emc": 64
+    },
+    {
+      "item": "aether:black_moa_egg",
+      "emc": 64
+    },
+    {
+      "item": "lost_aether_content:orange_moa_egg",
+      "emc": 64
+    },
+    {
+      "item": "lost_aether_content:brown_moa_egg",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "emc": 4096
     }
   ]
 }

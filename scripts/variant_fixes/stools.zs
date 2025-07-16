@@ -5,8 +5,8 @@ public function makeStool(color as string, wool as IItemStack, result as IItemSt
     val planks = <tag:items:musketcraft:all_planks>;
     craftingTable.remove(result);
     craftingTable.addShaped(color + "_stool", result * 2, [
-        [wool, wool, wool],
-        [planks, planks, planks]
+        [wool, wool],
+        [planks, planks]
     ]);
 }
 

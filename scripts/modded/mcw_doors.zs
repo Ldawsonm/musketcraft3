@@ -50,6 +50,7 @@ enableVariant(<item:minecraft:dark_oak_door>, <tag:items:musketcraft:mcwdoors/da
 enableVariant(<item:minecraft:jungle_door>, <tag:items:musketcraft:mcwdoors/jungle>);
 enableVariant(<item:minecraft:mangrove_door>, <tag:items:musketcraft:mcwdoors/mangrove>);
 enableVariant(<item:minecraft:oak_door>, <tag:items:musketcraft:mcwdoors/oak>);
+enableVariant(<item:minecraft:birch_door>, <tag:items:musketcraft:mcwdoors/birch>);
 enableVariant(<item:minecraft:spruce_door>, <tag:items:musketcraft:mcwdoors/spruce>);
 enableVariant(<item:minecraft:warped_door>, <tag:items:musketcraft:mcwdoors/warped>);
 

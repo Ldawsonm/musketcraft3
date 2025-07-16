@@ -9,11 +9,11 @@
 
 [cauldron]
 	#Enables enhanced cauldron
-	enhanced_cauldron = true
+	enhanced_cauldron = false
 	#Allows crafting items using cauldrons by clicking on them
-	crafting = true
+	crafting = false
 	#Allows dying cauldron water bedrock style and mixing them too
-	dye_water = true
+	dye_water = false
 	#Max amount of items that 1 cauldron layer can recolor.This is a multiplier on top of vanilla crafting recipe amount
 	#Range: 1 ~ 64
 	dye_recipes_per_layer = 4

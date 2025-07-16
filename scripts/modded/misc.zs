@@ -26,3 +26,13 @@ craftingTable.addShaped("waystone", <item:waystones:waystone>, [
     [stone, gravitite, stone],
     [obsidian, obsidian, obsidian]
 ]);
+
+craftingTable.remove(<item:map_atlases:atlas>);
+craftingTable.addShapeless("atlas", <item:map_atlases:atlas>,
+    [<item:minecraft:book>, <item:minecraft:map>]);
+
+craftingTable.remove(<item:enchantinginfuser:advanced_enchanting_infuser>);
+craftingTable.addShaped("adv_enchanting_enfuser", <item:enchantinginfuser:advanced_enchanting_infuser>, [
+    [air, gravitite, air],
+    [<item:minecraft:diamond>, <item:enchantinginfuser:enchanting_infuser>, <item:minecraft:diamond>]
+]);

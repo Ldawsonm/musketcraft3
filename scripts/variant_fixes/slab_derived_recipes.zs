@@ -6,6 +6,7 @@ val glass = <tag:items:forge:glass>;
 val bamboo = <item:minecraft:bamboo>;
 val quartz = <item:minecraft:quartz>;
 val sticks = <tag:items:forge:rods/wooden>;
+val stone = <tag:items:forge:stone>;
 
 
 craftingTable.remove(<item:woodworks:sawmill>);
@@ -74,4 +75,29 @@ craftingTable.addShaped("furniture_hammer", <item:another_furniture:furniture_ha
     [air, planks, planks],
     [air, sticks, planks],
     [sticks, air, air]
+]);
+
+craftingTable.remove(<item:minecraft:grindstone>);
+craftingTable.addShaped("grindstone", <item:minecraft:grindstone>, [
+    [sticks, <tag:items:forge:stone>, sticks],
+    [planks, air, planks]
+]);
+
+craftingTable.remove(<item:minecraft:armor_stand>);
+craftingTable.addShaped("armor_stand", <item:minecraft:armor_stand>, [
+    [sticks, sticks, sticks],
+    [air, sticks, air],
+    [sticks, stone, sticks]
+]);
+
+craftingTable.remove(<item:supplementaries:hat_stand>);
+craftingTable.addShaped("hat_stand", <item:supplementaries:hat_stand>, [
+    [planks],
+    [stone]
+]);
+
+craftingTable.remove(<item:supplementaries:statue>);
+craftingTable.addShaped("statue", <item:supplementaries:statue>, [
+    [<item:minecraft:clay>],
+    [stone]
 ]);

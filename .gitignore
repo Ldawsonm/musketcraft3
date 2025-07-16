@@ -16,6 +16,7 @@ libraries/*
 world/*
 mod_data/*
 emojiful/cache/*
+config/everycomp-hazardous.properties
 options.txt
 banned-ips.json
 banned-players.json
