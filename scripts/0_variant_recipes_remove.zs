@@ -1,5 +1,6 @@
 import crafttweaker.api.text.Component;
 import crafttweaker.api.text.MutableComponent;
+import crafttweaker.api.ingredient.IIngredient;
 
 // var disabled_items = <tag:items:musketeer:hidden_items>;
 var variant_items = <tag:items:musketcraft:made_with_variant_selector>;
@@ -29,10 +30,17 @@ variant_tooltip.setStyle(<constant:minecraft:formatting:yellow>.asStyle());
 // }
 
 
-for type in game.recipeTypes {
-	type.remove(disabled_items);
-	type.remove(variant_items);
-}
+// for type in game.recipeTypes {
+// 	type.remove(disabled_items);
+// 	// type.remove(<item:minecraft:red_carpet>);
+// }
+// for type in game.recipeTypes {
+// 	// type.remove(variant_items);
+// }
+recipes.remove(variant_items);
+recipes.remove(disabled_items);
+
+
 
 // for item in variant_items.elements {
 //     for type in game.recipeTypes {

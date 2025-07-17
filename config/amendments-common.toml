@@ -48,9 +48,9 @@
 
 [carpets]
 	#Allows you to place carpets on stairs
-	carpeted_stairs = true
+	carpeted_stairs = false
 	#Allows you to place carpets on slabs
-	carpeted_slabs = true
+	carpeted_slabs = false
 
 [cake]
 	#Allows you to place a cake on top of another

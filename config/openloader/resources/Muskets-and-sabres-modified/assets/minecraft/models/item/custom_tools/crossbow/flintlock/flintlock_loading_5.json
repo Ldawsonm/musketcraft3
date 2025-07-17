@@ -1,0 +1,260 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/custom_tools/crossbow/flintlock/flintlock-pulling-5",
+		"particle": "item/custom_tools/crossbow/flintlock/flintlock-pulling-5"
+	},
+	"elements": [
+		{
+			"name": "flintlock-pulling-5_0",
+			"from": [9.5, 6, 7.5],
+			"to": [10, 8, 8.5],
+			"faces": {
+				"north": {"uv": [10, 8, 9.5, 10], "texture": "#0"},
+				"east": {"uv": [9.5, 8, 10, 10], "texture": "#0"},
+				"south": {"uv": [9.5, 8, 10, 10], "texture": "#0"},
+				"west": {"uv": [9.5, 8, 10, 10], "texture": "#0"},
+				"up": {"uv": [9.5, 8, 10, 8.5], "texture": "#0"},
+				"down": {"uv": [9.5, 9.5, 10, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_1",
+			"from": [9, 6.5, 7.5],
+			"to": [9.5, 7.5, 8.5],
+			"faces": {
+				"north": {"uv": [9.5, 8.5, 9, 9.5], "texture": "#0"},
+				"east": {"uv": [9, 8.5, 9.5, 9.5], "texture": "#0"},
+				"south": {"uv": [9, 8.5, 9.5, 9.5], "texture": "#0"},
+				"west": {"uv": [9, 8.5, 9.5, 9.5], "texture": "#0"},
+				"up": {"uv": [9, 8.5, 9.5, 9], "texture": "#0"},
+				"down": {"uv": [9, 9, 9.5, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_2",
+			"from": [10, 5, 7.5],
+			"to": [10.5, 7.5, 8.5],
+			"faces": {
+				"north": {"uv": [10.5, 8.5, 10, 11], "texture": "#0"},
+				"east": {"uv": [10, 8.5, 10.5, 11], "texture": "#0"},
+				"south": {"uv": [10, 8.5, 10.5, 11], "texture": "#0"},
+				"west": {"uv": [10, 8.5, 10.5, 11], "texture": "#0"},
+				"up": {"uv": [10, 8.5, 10.5, 9], "texture": "#0"},
+				"down": {"uv": [10, 10.5, 10.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_3",
+			"from": [10.5, 4.5, 7.5],
+			"to": [11, 7, 8.5],
+			"faces": {
+				"north": {"uv": [11, 9, 10.5, 11.5], "texture": "#0"},
+				"east": {"uv": [10.5, 9, 11, 11.5], "texture": "#0"},
+				"south": {"uv": [10.5, 9, 11, 11.5], "texture": "#0"},
+				"west": {"uv": [10.5, 9, 11, 11.5], "texture": "#0"},
+				"up": {"uv": [10.5, 9, 11, 9.5], "texture": "#0"},
+				"down": {"uv": [10.5, 11, 11, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_4",
+			"from": [11, 3, 7.5],
+			"to": [11.5, 6.5, 8.5],
+			"faces": {
+				"north": {"uv": [11.5, 9.5, 11, 13], "texture": "#0"},
+				"east": {"uv": [11, 9.5, 11.5, 13], "texture": "#0"},
+				"south": {"uv": [11, 9.5, 11.5, 13], "texture": "#0"},
+				"west": {"uv": [11, 9.5, 11.5, 13], "texture": "#0"},
+				"up": {"uv": [11, 9.5, 11.5, 10], "texture": "#0"},
+				"down": {"uv": [11, 12.5, 11.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_5",
+			"from": [11.5, 3.5, 7.5],
+			"to": [12, 6, 8.5],
+			"faces": {
+				"north": {"uv": [12, 10, 11.5, 12.5], "texture": "#0"},
+				"east": {"uv": [11.5, 10, 12, 12.5], "texture": "#0"},
+				"south": {"uv": [11.5, 10, 12, 12.5], "texture": "#0"},
+				"west": {"uv": [11.5, 10, 12, 12.5], "texture": "#0"},
+				"up": {"uv": [11.5, 10, 12, 10.5], "texture": "#0"},
+				"down": {"uv": [11.5, 12, 12, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_6",
+			"from": [12, 2.5, 7.5],
+			"to": [13, 5.5, 8.5],
+			"faces": {
+				"north": {"uv": [13, 10.5, 12, 13.5], "texture": "#0"},
+				"east": {"uv": [12.5, 10.5, 13, 13.5], "texture": "#0"},
+				"south": {"uv": [12, 10.5, 13, 13.5], "texture": "#0"},
+				"west": {"uv": [12, 10.5, 12.5, 13.5], "texture": "#0"},
+				"up": {"uv": [12, 10.5, 13, 11], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_7",
+			"from": [13.5, 5, 7.5],
+			"to": [14, 5.5, 8.5],
+			"faces": {
+				"north": {"uv": [14, 10.5, 13.5, 11], "texture": "#0"},
+				"east": {"uv": [13.5, 10.5, 14, 11], "texture": "#0"},
+				"south": {"uv": [13.5, 10.5, 14, 11], "texture": "#0"},
+				"west": {"uv": [13.5, 10.5, 14, 11], "texture": "#0"},
+				"up": {"uv": [13.5, 10.5, 14, 11], "texture": "#0"},
+				"down": {"uv": [13.5, 10.5, 14, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_8",
+			"from": [14, 4.5, 7.5],
+			"to": [14.5, 5, 8.5],
+			"faces": {
+				"north": {"uv": [14.5, 11, 14, 11.5], "texture": "#0"},
+				"east": {"uv": [14, 11, 14.5, 11.5], "texture": "#0"},
+				"south": {"uv": [14, 11, 14.5, 11.5], "texture": "#0"},
+				"west": {"uv": [14, 11, 14.5, 11.5], "texture": "#0"},
+				"up": {"uv": [14, 11, 14.5, 11.5], "texture": "#0"},
+				"down": {"uv": [14, 11, 14.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_9",
+			"from": [13, 1, 7.5],
+			"to": [14, 4.5, 8.5],
+			"faces": {
+				"north": {"uv": [14, 11.5, 13, 15], "texture": "#0"},
+				"east": {"uv": [13.5, 11.5, 14, 15], "texture": "#0"},
+				"south": {"uv": [13, 11.5, 14, 15], "texture": "#0"},
+				"west": {"uv": [13, 11.5, 13.5, 15], "texture": "#0"},
+				"up": {"uv": [13, 11.5, 14, 12], "texture": "#0"},
+				"down": {"uv": [13, 14.5, 14, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_10",
+			"from": [11.5, 2.5, 7.5],
+			"to": [12, 3, 8.5],
+			"faces": {
+				"north": {"uv": [12, 13, 11.5, 13.5], "texture": "#0"},
+				"east": {"uv": [11.5, 13, 12, 13.5], "texture": "#0"},
+				"south": {"uv": [11.5, 13, 12, 13.5], "texture": "#0"},
+				"west": {"uv": [11.5, 13, 12, 13.5], "texture": "#0"},
+				"up": {"uv": [11.5, 13, 12, 13.5], "texture": "#0"},
+				"down": {"uv": [11.5, 13, 12, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_11",
+			"from": [14, 0, 7.5],
+			"to": [14.5, 3, 8.5],
+			"faces": {
+				"north": {"uv": [14.5, 13, 14, 16], "texture": "#0"},
+				"east": {"uv": [14, 13, 14.5, 16], "texture": "#0"},
+				"south": {"uv": [14, 13, 14.5, 16], "texture": "#0"},
+				"west": {"uv": [14, 13, 14.5, 16], "texture": "#0"},
+				"up": {"uv": [14, 13, 14.5, 13.5], "texture": "#0"},
+				"down": {"uv": [14, 15.5, 14.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_12",
+			"from": [12.5, 2, 7.5],
+			"to": [13, 2.5, 8.5],
+			"faces": {
+				"north": {"uv": [13, 13.5, 12.5, 14], "texture": "#0"},
+				"east": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"},
+				"south": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"},
+				"west": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"},
+				"up": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"},
+				"down": {"uv": [12.5, 13.5, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_13",
+			"from": [14.5, 0.5, 7.5],
+			"to": [15, 2.5, 8.5],
+			"faces": {
+				"north": {"uv": [15, 13.5, 14.5, 15.5], "texture": "#0"},
+				"east": {"uv": [14.5, 13.5, 15, 15.5], "texture": "#0"},
+				"south": {"uv": [14.5, 13.5, 15, 15.5], "texture": "#0"},
+				"west": {"uv": [14.5, 13.5, 15, 15.5], "texture": "#0"},
+				"up": {"uv": [14.5, 13.5, 15, 14], "texture": "#0"},
+				"down": {"uv": [14.5, 15, 15, 15.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_14",
+			"from": [15, 1, 7.5],
+			"to": [15.5, 2, 8.5],
+			"faces": {
+				"north": {"uv": [15.5, 14, 15, 15], "texture": "#0"},
+				"east": {"uv": [15, 14, 15.5, 15], "texture": "#0"},
+				"south": {"uv": [15, 14, 15.5, 15], "texture": "#0"},
+				"west": {"uv": [15, 14, 15.5, 15], "texture": "#0"},
+				"up": {"uv": [15, 14, 15.5, 14.5], "texture": "#0"},
+				"down": {"uv": [15, 14.5, 15.5, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "flintlock-pulling-5_15",
+			"from": [13.5, 0, 7.5],
+			"to": [14, 1, 8.5],
+			"faces": {
+				"north": {"uv": [14, 15, 13.5, 16], "texture": "#0"},
+				"east": {"uv": [13.5, 15, 14, 16], "texture": "#0"},
+				"south": {"uv": [13.5, 15, 14, 16], "texture": "#0"},
+				"west": {"uv": [13.5, 15, 14, 16], "texture": "#0"},
+				"up": {"uv": [13.5, 15, 14, 15.5], "texture": "#0"},
+				"down": {"uv": [13.5, 15.5, 14, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, -87.75, -135],
+			"translation": [0, 3.25, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 87.75, 135],
+			"translation": [0, 3.25, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -115, -127.5],
+			"translation": [5, 4.5, -4],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 70, 127.5],
+			"translation": [5, 4.5, -4],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [1.2, 1.2, 0.7]
+		},
+		"gui": {
+			"translation": [-8, 8, 0],
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [8, 8, 0],
+			"scale": [2, 2, 1]
+		}
+	},
+	"groups": [
+		{
+			"name": "flintlock-pulling-5",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		}
+	]
+}
