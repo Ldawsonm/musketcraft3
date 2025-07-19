@@ -1,0 +1,65 @@
+{
+	"parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+	"overrides": [
+		{"predicate": {"pulling": 1}, "model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "pull": 0.58}, "model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 1.00}, "model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1},"model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
+
+        {"predicate": {"lefthanded": 0}, "model": "item/custom_tools/crossbow/musket/musket_standby_right"},
+        {"predicate": {"lefthanded": 1}, "model": "item/custom_tools/crossbow/musket/musket_standby_left"},
+        {"predicate": {"pulling": 1}, "model": "item/custom_tools/crossbow/musket/musket_loading_1"},
+        {"predicate": {"pulling": 1, "pull": 0.45}, "model": "item/custom_tools/crossbow/musket/musket_loading_2"},
+        {"predicate": {"pulling": 1, "pull": 0.60}, "model": "item/custom_tools/crossbow/musket/musket_loading_3"},
+        {"predicate": {"pulling": 1, "pull": 0.80}, "model": "item/custom_tools/crossbow/musket/musket_loading_4"},
+        {"predicate": {"pulling": 1, "pull": 0.95}, "model": "item/custom_tools/crossbow/musket/musket_loading_5"},
+        {"predicate": {"charged": 1},"model": "item/custom_tools/crossbow/musket/musket_loaded"},
+        {"predicate": {"charged": 1, "firework": 1}, "model": "item/custom_tools/crossbow/musket/musket_loaded"},
+
+        {"predicate": {"custom_model_data": 2, "lefthanded": 0}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_standby_right"},
+        {"predicate": {"custom_model_data": 2, "lefthanded": 1}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_standby_left"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loading_1"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 0.45}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loading_2"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 0.60}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loading_3"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 0.80}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loading_4"},
+        {"predicate": {"custom_model_data": 2, "pulling": 1, "pull": 0.95}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loading_5"},
+        {"predicate": {"custom_model_data": 2, "charged": 1},"model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loaded"},
+        {"predicate": {"custom_model_data": 2, "charged": 1, "firework": 1}, "model": "item/custom_tools/crossbow/blunderbuss/blunderbuss_loaded"},
+
+        {"predicate": {"custom_model_data": 3, "lefthanded": 0}, "model": "item/custom_tools/crossbow/flintlock/flintlock_standby_right"},
+        {"predicate": {"custom_model_data": 3, "lefthanded": 1}, "model": "item/custom_tools/crossbow/flintlock/flintlock_standby_left"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loading_1"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 0.45}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loading_2"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 0.60}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loading_3"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 0.80}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loading_4"},
+        {"predicate": {"custom_model_data": 3, "pulling": 1, "pull": 0.95}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loading_5"},
+        {"predicate": {"custom_model_data": 3, "charged": 1},"model": "item/custom_tools/crossbow/flintlock/flintlock_loaded"},
+        {"predicate": {"custom_model_data": 3, "charged": 1, "firework": 1}, "model": "item/custom_tools/crossbow/flintlock/flintlock_loaded"}
+	]
+}
