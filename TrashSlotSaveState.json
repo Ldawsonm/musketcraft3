@@ -1,1 +1,1 @@
-{"hintsSeen":["toggleOn"],"cachedSettings":{"net/minecraft/client/gui/screens/inventory/SmithingScreen":{"slotX":60,"slotY":83,"anchorX":0.5,"anchorY":0.5,"isEnabled":false,"isLocked":false}}}
+{"hintsSeen":["toggleOn","toggledOff"],"cachedSettings":{"net/minecraft/client/gui/screens/inventory/SmithingScreen":{"slotX":60,"slotY":83,"anchorX":0.5,"anchorY":0.5,"isEnabled":false,"isLocked":false},"moze_intel/projecte/gameObjs/gui/GUITransmutation":{"slotX":86,"slotY":98,"anchorX":0.5,"anchorY":0.5,"isEnabled":true,"isLocked":false}}}
